@@ -1,0 +1,197 @@
+Removed Pin From Net: NetName=MCU_DIN Pin=J5-1
+Change Component Designator: OldDesignator=C14 NewDesignator=C15
+Change Component Designator: OldDesignator=LD2 NewDesignator=LD3
+Change Component Designator: OldDesignator=LD3 NewDesignator=LD2
+Change Component Designator: OldDesignator=LD5 NewDesignator=LD6
+Change Component Designator: OldDesignator=LD6 NewDesignator=LD5
+Change Component Designator: OldDesignator=R11 NewDesignator=R12
+Change Component Designator: OldDesignator=R12 NewDesignator=R11
+Change Component Designator: OldDesignator=R14 NewDesignator=R15
+Change Component Designator: OldDesignator=R15 NewDesignator=R19
+Change Component Designator: OldDesignator=R16 NewDesignator=R20
+Change Component Designator: OldDesignator=R17 NewDesignator=R21
+Change Component Designator: OldDesignator=R18 NewDesignator=R22
+Change Component Designator: OldDesignator=R19 NewDesignator=R23
+Change Component Designator: OldDesignator=R20 NewDesignator=R24
+Change Component Designator: OldDesignator=R21 NewDesignator=R25
+Change Component Designator: OldDesignator=R22 NewDesignator=R26
+Change Component Designator: OldDesignator=R23 NewDesignator=R27
+Change Component Designator: OldDesignator=R24 NewDesignator=R28
+Added Component: Designator=C14(C 0805(2012)x0.65)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://store.comet.bg/download-file.php?id=11"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESR Ohm"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samsung"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Alternate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount Type"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package-mm"; Value = "2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CL21B105KBFNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number Alternate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.17"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "07.04.2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Hefest"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Y"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Comet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C0805 1.0uF 50V X7R SAMSUNG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "Ceramic  MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TempCo"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C ~ +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance %"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VAC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VDC"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=D4(SOT95P240X110-3N)
+Add component (AddParameter): Name = "Author"; Value = "CERN DEM JLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Bonding"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "SOT23-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeight"; Value = "1.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreateDate"; Value = "7/7/2014"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "BAS40-04-7-F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "\\cern.ch\dfs\Applications\Altium\Datasheets\BAS40-04-7-F.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "7/7/2014"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "DIODES INCORPORATED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "BAS40-04-7-F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounted"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "SOT, 0.95mm Pitch; 3 Pin, 1.30mm W X 2.90mm L X 1.10mm H, IPC Medium Density"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Description"; Value = "Dual Series Surface Mount Schottky Barrier Diodes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "BAS40-04-7-F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "200mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PressFit"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sense"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Socket"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "40V"; VariantName = "[No Variations]"
+Added Component: Designator=R14(R 0805(2012))
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://store.comet.bg/download-file.php?id=140"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Alternate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount Type"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package-mm"; Value = "2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number Alternate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.029"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "07.04.2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Hefest"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Y"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Comet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "R0805 1.0K 5% YAG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "Thick film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TempCo"; Value = "±100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C ~ +155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance %"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1.5k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value Code"; Value = "102"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VDC"; Value = "150V"; VariantName = "[No Variations]"
+Added Component: Designator=R16(R 0805(2012))
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://store.comet.bg/download-file.php?id=140"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Alternate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount Type"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package-mm"; Value = "2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number Alternate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.029"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "07.04.2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Hefest"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Y"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Comet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "R0805 1.0K 5% YAG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "Thick film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TempCo"; Value = "±100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C ~ +155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance %"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value Code"; Value = "102"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VDC"; Value = "150V"; VariantName = "[No Variations]"
+Added Component: Designator=R17(R 0805(2012))
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://store.comet.bg/download-file.php?id=140"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Alternate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount Type"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package-mm"; Value = "2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number Alternate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.029"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "07.04.2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Hefest"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Y"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Comet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "R0805 1.0K 5% YAG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "Thick film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TempCo"; Value = "±100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C ~ +155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance %"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value Code"; Value = "102"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VDC"; Value = "150V"; VariantName = "[No Variations]"
+Added Component: Designator=R18(R 0805(2012))
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://store.comet.bg/download-file.php?id=140"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Alternate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount Type"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package-mm"; Value = "2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number Alternate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.029"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "07.04.2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Hefest"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Y"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Comet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "R0805 1.0K 5% YAG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "Thick film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TempCo"; Value = "±100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C ~ +155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance %"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1.5k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value Code"; Value = "102"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VDC"; Value = "150V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C14-2
+Added Pin To Net: NetName=GND Pin=D4-1
+Added Pin To Net: NetName=+5V Pin=D4-2
+Added Pin To Net: NetName=+5V Pin=R14-2
+Added Pin To Net: NetName=GND Pin=R17-1
+Added Pin To Net: NetName=GND Pin=R18-1
+Change Net Name : Old Net Name=NetLD2_1 New Net Name=NetLD3_1
+Change Net Name : Old Net Name=NetLD3_2 New Net Name=NetLD2_2
+Change Net Name : Old Net Name=NetLD6_2 New Net Name=NetLD5_2
+Change Net Name : Old Net Name=NetR14_1 New Net Name=NetR15_1
+Change Net Name : Old Net Name=NetR15_2 New Net Name=NetR19_2
+Change Net Name : Old Net Name=NetR23_1 New Net Name=NetR27_1
+Added Pin To Net: NetName=DIN_External Pin=J5-1
+Added Pin To Net: NetName=DIN_External Pin=R14-1
+Added Pin To Net: NetName=DIN_External Pin=R16-1
+Added Pin To Net: NetName=DIN_External Pin=R17-2
+Added Pin To Net: NetName=DIN_External Pin=R18-2
+Added Net: Name=DIN_External
+Added Pin To Net: NetName=MCU_DIN_External Pin=C14-1
+Added Pin To Net: NetName=MCU_DIN_External Pin=D4-3
+Added Pin To Net: NetName=MCU_DIN_External Pin=R16-2
+Added Pin To Net: NetName=MCU_DIN_External Pin=U2-17
+Added Net: Name=MCU_DIN_External
+Added Member To Class: ClassName=Main Member=Component C15 10nF
+Added Member To Class: ClassName=Main Member=Component D4 BAS40-04-7-F
+Added Member To Class: ClassName=Main Member=Component R25 0R
+Added Member To Class: ClassName=Main Member=Component R26 4.7k
+Added Member To Class: ClassName=Main Member=Component R27 4.7k
+Added Member To Class: ClassName=Main Member=Component R28 0R
+Added Room: Name=Main

@@ -1,0 +1,8 @@
+Change Component Designator: OldDesignator=Tp? NewDesignator=Tp1
+Change Component Designator: OldDesignator=Tp? NewDesignator=Tp2
+Change Component Designator: OldDesignator=Tp? NewDesignator=Tp3
+Change Component Designator: OldDesignator=Tp? NewDesignator=Tp4
+Added Member To Class: ClassName=Main Member=Component Tp2 Tp
+Added Member To Class: ClassName=Main Member=Component Tp3 Tp
+Added Member To Class: ClassName=Main Member=Component Tp4 Tp
+Added Room: Name=Main

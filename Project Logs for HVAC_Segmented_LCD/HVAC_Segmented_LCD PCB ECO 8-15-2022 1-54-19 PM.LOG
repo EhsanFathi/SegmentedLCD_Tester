@@ -1,0 +1,9 @@
+Added Component: Designator=P7(PAD5/7)
+Added Component: Designator=P8(PAD5/7)
+Added Component: Designator=P9(PAD5/7)
+Added Component: Designator=P10(PAD5/7)
+Added Member To Class: ClassName=Main Member=Component P7 PAD
+Added Member To Class: ClassName=Main Member=Component P8 PAD
+Added Member To Class: ClassName=Main Member=Component P9 PAD
+Added Member To Class: ClassName=Main Member=Component P10 PAD
+Added Room: Name=Main

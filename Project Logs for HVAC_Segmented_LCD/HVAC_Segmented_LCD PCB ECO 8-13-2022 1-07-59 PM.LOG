@@ -1,0 +1,35 @@
+Added Component: Designator=C9(EL SMD D8 h10.5)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://store.comet.bg/download-file.php?id=10100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESR Ohm"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Load life"; Value = "2000h @ +105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Fujicon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Alternate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount Type"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "D8mm h10.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number Alternate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "07.04.2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Hefest"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Y"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Comet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "Electrolytic Aluminum"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TempCo"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-40°C ~ +105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance %"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VAC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VDC"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5V Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Member To Class: ClassName=Main Member=Component C8 1uF
+Added Member To Class: ClassName=Main Member=Component C9 *
+Added Member To Class: ClassName=Main Member=Component D3 Zener 5.6v
+Added Member To Class: ClassName=Main Member=Component J2
+Added Member To Class: ClassName=Main Member=Component P5 Header 3
+Added Member To Class: ClassName=Main Member=Component R19 0R
+Added Member To Class: ClassName=Main Member=Component U1 HT1621B_SSOPA
+Added Room: Name=Main

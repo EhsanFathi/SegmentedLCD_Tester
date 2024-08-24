@@ -1,0 +1,110 @@
+Removed Pin From Net: NetName=NetPB1_3 Pin=U2-10
+Added Component: Designator=LD?(LED_ROHM_SML-D12U8WT86)
+Add component (AddParameter): Name = "Author"; Value = "CERN DEM JLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Bonding"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Red"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeight"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreateDate"; Value = "10/23/2017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "\\cern.ch\dfs\Applications\Altium\Datasheets\LED_ROHM_SML-D12U8WT86.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "10/23/2017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ROHM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SML-D12U8WT86"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounted"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Red Chip LED, 2-Leads, Body 1.6x0.8mm (0603), SML-D12x8 Series"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Description"; Value = "High Brightness and High Reliability Chip 0603(1608mm) Red LED SML-D12x8 Series"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "LED_ROHM_SML-D12U8WT86"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PressFit"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sense"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Socket"; Value = "No"; VariantName = "[No Variations]"
+Added Component: Designator=LD?(LED_ROHM_SML-D12U8WT86)
+Add component (AddParameter): Name = "Author"; Value = "CERN DEM JLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Bonding"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Red"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeight"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreateDate"; Value = "10/23/2017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "\\cern.ch\dfs\Applications\Altium\Datasheets\LED_ROHM_SML-D12U8WT86.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "10/23/2017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ROHM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SML-D12U8WT86"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounted"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Red Chip LED, 2-Leads, Body 1.6x0.8mm (0603), SML-D12x8 Series"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Description"; Value = "High Brightness and High Reliability Chip 0603(1608mm) Red LED SML-D12x8 Series"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "LED_ROHM_SML-D12U8WT86"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PressFit"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sense"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Socket"; Value = "No"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R 0805(2012))
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://store.comet.bg/download-file.php?id=140"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Alternate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount Type"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package-mm"; Value = "2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number Alternate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.029"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "07.04.2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Hefest"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Y"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Comet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "R0805 1.0K 5% YAG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "Thick film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TempCo"; Value = "±100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C ~ +155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance %"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "8.6k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value Code"; Value = "102"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VDC"; Value = "150V"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R 0805(2012))
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://store.comet.bg/download-file.php?id=140"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Alternate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount Type"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package-mm"; Value = "2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number Alternate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.029"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "07.04.2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Hefest"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Y"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Comet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "R0805 1.0K 5% YAG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "Thick film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TempCo"; Value = "±100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C ~ +155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance %"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "8.6k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value Code"; Value = "102"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VDC"; Value = "150V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetPB1_3 Pin=J4-1
+Added Pin To Net: NetName=GND Pin=LD?-1
+Added Pin To Net: NetName=GND Pin=LD?-1
+Added Pin To Net: NetName=NetPB1_3 Pin=U2-16
+Change Net Name : Old Net Name=NetPB1_3 New Net Name=MCU_DIN
+Added Pin To Net: NetName=MCU_LED_1 Pin=R?-2
+Added Pin To Net: NetName=MCU_LED_1 Pin=U2-21
+Added Net: Name=MCU_LED_1
+Added Pin To Net: NetName=MCU_LED_2 Pin=R?-2
+Added Pin To Net: NetName=MCU_LED_2 Pin=U2-20
+Added Net: Name=MCU_LED_2
+Added Pin To Net: NetName=NetLD?_2 Pin=LD?-2
+Added Pin To Net: NetName=NetLD?_2 Pin=R?-1
+Added Net: Name=NetLD?_2
+Added Member To Class: ClassName=Main Member=Component LD? Red
+Added Member To Class: ClassName=Main Member=Component LD? Red
+Added Member To Class: ClassName=Main Member=Component R? 8.6k
+Added Member To Class: ClassName=Main Member=Component R? 8.6k
+Added Room: Name=Main

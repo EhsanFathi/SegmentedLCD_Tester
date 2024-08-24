@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=MCU_AIN Pin=R28-2
+Removed Member From Class: ClassName=Main Member=R28
+Added Component: Designator=P6(PAD5/7)
+Added Component: Designator=P7(PAD5/7)
+Added Component: Designator=P8(PAD5/7)
+Added Component: Designator=P9(PAD5/7)
+Added Pin To Net: NetName=MCU_AIN Pin=J4-1
+Added Member To Class: ClassName=Main Member=Component C14 1uF
+Added Member To Class: ClassName=Main Member=Component LD3 Yellow
+Added Member To Class: ClassName=Main Member=Component LD5 Red
+Added Member To Class: ClassName=Main Member=Component P6 PAD
+Added Member To Class: ClassName=Main Member=Component P7 PAD
+Added Member To Class: ClassName=Main Member=Component P8 PAD
+Added Member To Class: ClassName=Main Member=Component P9 PAD
+Added Member To Class: ClassName=Main Member=Component R12 10k
+Added Member To Class: ClassName=Main Member=Component R14 1.5k
+Added Member To Class: ClassName=Main Member=Component R15 10k
+Added Member To Class: ClassName=Main Member=Component R16 100k
+Added Member To Class: ClassName=Main Member=Component R17 100k
+Added Member To Class: ClassName=Main Member=Component R18 1.5k
+Added Member To Class: ClassName=Main Member=Component R20 0R
+Added Member To Class: ClassName=Main Member=Component R21 0R
+Added Member To Class: ClassName=Main Member=Component R22 0R
+Added Member To Class: ClassName=Main Member=Component R23 0R
+Added Member To Class: ClassName=Main Member=Component R24 0R
+Added Room: Name=Main

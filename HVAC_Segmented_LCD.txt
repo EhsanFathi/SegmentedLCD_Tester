@@ -1,0 +1,10 @@
+Board Information Report
+Filename     : E:\Projects\HVAC_Segmented_LCDS\HVAC_Segmented_LCD\HVAC_Segmented_LCD.PcbDoc
+Date         : 8/15/2022
+Time         : 5:23:32 PM
+Time Elapsed : 00:00:00
+
+Via Solder Mask, CountTop Solder MaskBottom Solder Mask
+    0mm, 0, 74
+    0.1016mm, 206, 132
+count : 2

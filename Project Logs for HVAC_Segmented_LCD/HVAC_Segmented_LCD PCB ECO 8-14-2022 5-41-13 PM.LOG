@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=MCU_LCD_Backlight Pin=U2-19
+Added Member To Class: ClassName=Main Member=Component LD5 Yellow
+Added Member To Class: ClassName=Main Member=Component LD10 Yellow
+Added Member To Class: ClassName=Main Member=Component R12 8.6k
+Added Room: Name=Main

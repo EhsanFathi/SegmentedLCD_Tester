@@ -1,0 +1,59 @@
+Added Component: Designator=LD?(LEDM3528X210N_YELLOW)
+Add component (AddParameter): Name = "Author"; Value = "CERN DEM JLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Bonding"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Yellow"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeight"; Value = "1.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreateDate"; Value = "5/14/2008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "\\cern.ch\dfs\Applications\Altium\Datasheets\LED_OSRAM_LYT676-R1S2-26.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "3/17/2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "OSRAM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "LY T676-R1S2-26"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounted"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Molded LED, 2-Leads, Body 3.5x2.8mm, IPC Medium Density PCB Edge Mounting"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Description"; Value = "Hyper TOPLED® SMD Yellow LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "LED_OSRAM_LYT676-R1S2-26"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PressFit"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sense"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Socket"; Value = "No"; VariantName = "[No Variations]"
+Added Component: Designator=LD?(LEDM3528X210N_YELLOW)
+Add component (AddParameter): Name = "Author"; Value = "CERN DEM JLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Bonding"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Yellow"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeight"; Value = "1.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreateDate"; Value = "5/14/2008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "\\cern.ch\dfs\Applications\Altium\Datasheets\LED_OSRAM_LYT676-R1S2-26.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "3/17/2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "OSRAM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "LY T676-R1S2-26"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounted"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Molded LED, 2-Leads, Body 3.5x2.8mm, IPC Medium Density PCB Edge Mounting"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Description"; Value = "Hyper TOPLED® SMD Yellow LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "LED_OSRAM_LYT676-R1S2-26"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PressFit"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sense"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Socket"; Value = "No"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetLD2_1 Pin=LD?-1
+Added Pin To Net: NetName=NetLD2_1 Pin=LD?-1
+Added Pin To Net: NetName=+5V Pin=LD?-2
+Added Pin To Net: NetName=+5V Pin=LD?-2
+Added Member To Class: ClassName=Main Member=Component C13 1uF
+Added Member To Class: ClassName=Main Member=Component LD2 Yellow
+Added Member To Class: ClassName=Main Member=Component LD3 Red
+Added Member To Class: ClassName=Main Member=Component LD? Yellow
+Added Member To Class: ClassName=Main Member=Component LD? Yellow
+Added Member To Class: ClassName=Main Member=Component R12 10k
+Added Member To Class: ClassName=Main Member=Component R13 10k
+Added Member To Class: ClassName=Main Member=Component R14 10k
+Added Member To Class: ClassName=Main Member=Component R15 0R
+Added Member To Class: ClassName=Main Member=Component R17 0R
+Added Member To Class: ClassName=Main Member=Component R18 0R
+Added Member To Class: ClassName=Main Member=Component R19 0R
+Added Member To Class: ClassName=Main Member=Component R20 0R
+Added Member To Class: ClassName=Main Member=Component T1 BCP56-10
+Added Room: Name=Main

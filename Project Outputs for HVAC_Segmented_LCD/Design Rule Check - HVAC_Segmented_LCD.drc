@@ -1,0 +1,59 @@
+Protel Design System Design Rule Check
+PCB File : E:\Projects\HVAC_Segmented_LCDS\HVAC_Segmented_LCD\HVAC_Segmented_LCD.PcbDoc
+Date     : 8/15/2022
+Time     : 5:25:46 PM
+
+Processing Rule : Clearance Constraint (Gap=0.3mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.127mm) (IsStitchingVia and InNet('GND')),((IsVia and (Not IsStitchingVia)) Or IsPad)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.02mm) (Max=2.5mm) (Preferred=0.5mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=2.54mm) (All)
+   Violation between Hole Size Constraint: (3.25mm > 2.54mm) Pad S11-0(3.048mm,98.603mm) on Multi-Layer Actual Hole Size = 3.25mm
+   Violation between Hole Size Constraint: (3.25mm > 2.54mm) Pad S12-0(2.921mm,2.845mm) on Multi-Layer Actual Hole Size = 3.25mm
+   Violation between Hole Size Constraint: (3.25mm > 2.54mm) Pad S13-0(73.533mm,85.979mm) on Multi-Layer Actual Hole Size = 3.25mm
+   Violation between Hole Size Constraint: (3.25mm > 2.54mm) Pad S14-0(73.533mm,21.209mm) on Multi-Layer Actual Hole Size = 3.25mm
+Rule Violations :4
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0.1mm) (IsPad),(All)
+   Violation between Silk To Solder Mask Clearance Constraint: (0.05mm < 0.1mm) Between Arc (2.946mm,2.87mm) on Top Overlay And Pad S12-0(2.921mm,2.845mm) on Multi-Layer [Top Overlay] to [Top Solder] clearance [0.05mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.05mm < 0.1mm) Between Arc (3.073mm,98.628mm) on Top Overlay And Pad S11-0(3.048mm,98.603mm) on Multi-Layer [Top Overlay] to [Top Solder] clearance [0.05mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.05mm < 0.1mm) Between Arc (73.558mm,21.234mm) on Top Overlay And Pad S14-0(73.533mm,21.209mm) on Multi-Layer [Top Overlay] to [Top Solder] clearance [0.05mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.05mm < 0.1mm) Between Arc (73.558mm,86.004mm) on Top Overlay And Pad S13-0(73.533mm,85.979mm) on Multi-Layer [Top Overlay] to [Top Solder] clearance [0.05mm]
+Rule Violations :4
+
+Processing Rule : Silk to Silk (Clearance=0.1mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 8
+Waived Violations : 0
+Time Elapsed        : 00:00:02

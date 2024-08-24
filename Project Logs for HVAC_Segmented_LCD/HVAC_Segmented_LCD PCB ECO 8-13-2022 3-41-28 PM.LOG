@@ -1,0 +1,41 @@
+Added Component: Designator=Tp?(Tp-0.4)
+Add component (AddParameter): Name = "Mount Type"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TestPoint"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "07.04.2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Hefest"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "PCB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = "TestPoint"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Tp"; VariantName = "[No Variations]"
+Added Component: Designator=Tp?(Tp-0.4)
+Add component (AddParameter): Name = "Mount Type"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TestPoint"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "07.04.2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Hefest"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "PCB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = "TestPoint"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Tp"; VariantName = "[No Variations]"
+Added Component: Designator=Tp?(Tp-0.4)
+Add component (AddParameter): Name = "Mount Type"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TestPoint"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "07.04.2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Hefest"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "PCB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = "TestPoint"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Tp"; VariantName = "[No Variations]"
+Added Component: Designator=Tp?(Tp-0.4)
+Add component (AddParameter): Name = "Mount Type"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TestPoint"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "07.04.2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Hefest"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "PCB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = "TestPoint"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Tp"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5V Pin=Tp?-1
+Added Pin To Net: NetName=GND Pin=Tp?-1
+Added Pin To Net: NetName=MCU_AIN Pin=Tp?-1
+Added Pin To Net: NetName=MCU_LCD_DATA Pin=Tp?-1
+Added Member To Class: ClassName=Main Member=Component Tp? Tp
+Added Member To Class: ClassName=Main Member=Component Tp? Tp
+Added Member To Class: ClassName=Main Member=Component Tp? Tp
+Added Member To Class: ClassName=Main Member=Component Tp? Tp
+Added Room: Name=Main
